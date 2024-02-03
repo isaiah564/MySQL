@@ -1,0 +1,1 @@
+this is the logical order with which you must comply when you use AND,OR in the same where block

@@ -1,0 +1,46 @@
+Introduction to SQL:sql allows you to manipulate big data. sql has the ability to manipulate data
+why my sql:my sql is reliable,mature and opensource. my sql is the most demanded language in 2017
+why sql:sql has the ability to store retrieve and manipulate large amounts of data and sql is majorly used by data scientist,business intelligence,web development and database administration 
+sql stands for structured query language.it is a programming language specifically designedfor working with databases.it can create,manipulate and share data.sql is an intuitive and easy to learn programming language.although sql is very simple to learn it has the ability to handle massive data
+Introduction to database: sql concepts are interelated.
+
+SQL THEORY:
+SQL as a declerative language:is a language command that lets you create and manipulate relational databases.
+types of programming:
+1. procedural(imperative)
+2. object-oriented
+3. declarative
+4. functional.
+sql falls under the declarative programming language but it is nonprocedural which means it doesnot require to show how things are thone both rather shows what result it can give.
+note: when using sql you should concentrate on what you want to retrieve from your database
+SQL'S SYNTAX:
+this comprises several types of statements that allow you to perform various commands and operations
+MAIN COMPONENTS OF SQL'S SYNTAX:
+1. Data Definition langauage[DDL]
+2. Data manipulation language[DML]
+3. Data control language[DCL]
+4. transaction control language[TCL]
+ 
+Data definition languge[DDL]:
+this can be called a syntax although its a language.
+it is a set of statement that allow the user to define or modify data structures and objects, such as tables
+examples of DDL:
+1. the create statement: it is used for creating entire databases and database object as tables
+2. the ALTER STATEMENT: it is used when altering existing objects.we can use alter tomodify a table by ADD,REMOVE,RENAME an object in the table.
+3. theDROP statement:it is used to delete tables.
+4. the RENAME statemnt: it is used to rename an object.
+5. the TRUNCATE staement:it is used to remove data from the table and continue to use the table as an object in the database.
+sql keywords: they are codes or word that constitute the language.e.g(ADD,CREATE,ALTER,etc
+note:keywords in sql cannot be variable names,rserved words are synonyms for keywords.
+
+DATA MANIPULATION LANGUAGE:
+it is a statement that allos us to manipulate the data in the tables of a database. examples;
+1. the SELECT statement: it is used to retrieve data from database objects, like tables
+2. the INSERT statement: it is used to insert data into tables.
+3. the UPDATE statement: it allows you to rene existing data of your tables
+4. the delete statement: it functions as truncate but you get to decide which value is removed.
+
+DATA CONTROL LANGUAGE:
+GRANT and REVOKE:this allows us to limit the right people have to our  database.
+
+

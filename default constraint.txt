@@ -1,0 +1,14 @@
+default constraint:this help us assign default value to every row of a column
+a value different from the default can be stored in a field where the DEFAULT CONSTRAINT has been applied, only if specifically indicated
+ASSIGNMENT:
+Recreate the â€œcompaniesâ€ table
+
+(company_id â€“ VARCHAR of 255,  
+
+company_name â€“ VARCHAR of 255,  
+
+headquarters_phone_number â€“ VARCHAR of 255),    
+
+This time setting the â€œheadquarters phone numberâ€ to be the unique key, and default value of the company's name to be â€œXâ€.   
+
+Resources for this assignment:

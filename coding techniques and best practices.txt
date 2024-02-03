@@ -1,0 +1,17 @@
+complying with coding style is crucial
+
+clean code: this is a code that is focused and understandable, which means it must be readable, logical and changeable.
+good code is not the one computers understand; it is the one humans can understand
+good practice: implies you
+
+when assigning names to  variables or sql objects,always choose shorter,meaningful names,conveying specific information
+
+
+
+ways to have a clean code
+1. use ad-hoc software that reoerganizes code and colours different words consistently
+2. use the relevant anological tool provided in workbench
+3. intervene manually and adjust your code as you like
+
+
+comments in mysql: this is a line of text workbench will not run as code; they convey a message to someone who reads our code
